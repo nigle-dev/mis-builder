@@ -1,5 +1,5 @@
 
-[![Runboat](https://img.shields.io/badge/runboat-Try%20me-875A7B.png)](https://runboat.odoo-community.org/builds?repo=OCA/mis-builder&target_branch=15.0)
+[![Runboat](https://img.shields.io/badge/runboat-Try%20me-875A7B.png)](http://rbtest.n8m.nl:8000/builds?repo=nigle-dev/mis-builder&target_branch=15.0)
 [![Pre-commit Status](https://github.com/OCA/mis-builder/actions/workflows/pre-commit.yml/badge.svg?branch=15.0)](https://github.com/OCA/mis-builder/actions/workflows/pre-commit.yml?query=branch%3A15.0)
 [![Build Status](https://github.com/OCA/mis-builder/actions/workflows/test.yml/badge.svg?branch=15.0)](https://github.com/OCA/mis-builder/actions/workflows/test.yml?query=branch%3A15.0)
 [![codecov](https://codecov.io/gh/OCA/mis-builder/branch/15.0/graph/badge.svg)](https://codecov.io/gh/OCA/mis-builder)
